@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 Welcome to my Java Projects repo!  
-This is where I drop all the cool stuff I build while learning Java from zero.  
+This is where I drop all the cool stuff I build while learning Java and solving DSA questions.  
 
 ## Projects
 
